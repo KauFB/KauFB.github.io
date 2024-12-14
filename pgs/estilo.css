@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:azure;
+ }
+ 
+ .itemPai{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     flex-wrap: wrap;
+ }
+ 
+ .item{
+ width: 250px;
+ height: 100px;
+ box-sizing: border-box;
+ border: 2px solid rgb(34, 175, 218);
+ padding: 10px;
+ margin: 10px;
+ font-weight: bold;
+ box-shadow: 2px 4px 8px rgb(rgb(4, 28, 243));
+ background-color:rgb(241, 10, 10);
+
+}
+#dropdown-menu{
+    background-color: blue;
+}
+#nav{
+        background-color: rgb(255, 251, 251) !important;
+    }

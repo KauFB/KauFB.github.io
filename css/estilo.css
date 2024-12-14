@@ -1,0 +1,58 @@
+.meutitulo{
+    color:black
+
+
+}
+h4{
+    color:crimson
+}
+body{
+    background-image: url("https://saopaulosempre.com.br/wp-content/uploads/2016/10/EscudoGOLD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p{
+   color:black
+
+}
+
+Font-face{
+    font-family: spfc;
+    src: url(../fonts/MetroGothic\ W00\ Regular.ttf);
+}
+
+h1{
+    background:rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgb(226, 6, 6) 0%, rgb(255, 255, 255) 35%, rgb(0, 0, 0) 100%);
+    font-family: spfc, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(226, 6, 6) 0%, rgb(255, 255, 255) 35%, rgb(0, 0, 0) 100%);;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background: linear-gradient(90deg, rgb(226, 6, 6) 0%, rgb(255, 255, 255) 35%, rgb(0, 0, 0) 100%);;
+    color: red;
+  }
+
+
+
